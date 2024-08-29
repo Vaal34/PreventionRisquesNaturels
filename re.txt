@@ -1,0 +1,9 @@
+csv
+sys
+requests
+pytesseract
+urllib3
+pdf2image
+Pillow
+unidecode
+PyPDF2
